@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Connector command="GetFoldersAndFiles" resourceType="File">
+    <CurrentFolder path="/" url="/UserFiles/File/" />
+    <Folders>
+        <Folder name="Test" />
+    </Folders>
+    <Files>
+        <File name="Test.php" size="&lt;img src=&quot;x&quot; onerror=&quot;alert(document.domain);&quot;&gt;" />
+    </Files>
+</Connector>
